@@ -4,10 +4,10 @@ st is a simple terminal emulator for X which sucks less.
 
 patches
 -------
-- [ boxdraw ] (https://st.suckless.org/patches/boxdraw/)
-- [ font2 ] (https://st.suckless.org/patches/font2/)
-- [ ligatures ] (https://st.suckless.org/patches/ligatures/)
-- [ scrollback ] (https://st.suckless.org/patches/scrollback/)
+- [boxdraw](https://st.suckless.org/patches/boxdraw/)
+- [font2](https://st.suckless.org/patches/font2/)
+- [ligatures](https://st.suckless.org/patches/ligatures/)
+- [scrollback](https://st.suckless.org/patches/scrollback/)
 
 Requirements
 ------------
