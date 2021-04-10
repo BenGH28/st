@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka:size=16:antialias=true:autohint=true:scalable=true:width=2";
+static char *font = "Iosevka Extended:size=16:antialias=true:autohint=true:scalable=true";
 
 /* Spare fonts */
 static char *font2[] = {
