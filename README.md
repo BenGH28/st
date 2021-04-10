@@ -8,6 +8,7 @@ st is a simple terminal emulator for X which sucks less.
 - [font2](https://st.suckless.org/patches/font2/)
 - [ligatures](https://st.suckless.org/patches/ligatures/)
 - [scrollback](https://st.suckless.org/patches/scrollback/)
+- [anysize](https://st.suckless.org/patches/anysize/)
 
 # Requirements
 - Xlib header files to build st.
