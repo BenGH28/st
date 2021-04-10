@@ -13,7 +13,7 @@ st is a simple terminal emulator for X which sucks less.
 # Requirements
 - Xlib header files to build st.
 - [Iosevka font](https://typeof.net/Iosevka/)
-- [FiraCode Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)(optional)
+- [FiraCode Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) (optional)
 
 # Installation
 Edit config.mk to match your local setup (st is installed into
