@@ -9,6 +9,7 @@ st is a simple terminal emulator for X which sucks less.
 - [ligatures](https://st.suckless.org/patches/ligatures/)
 - [scrollback](https://st.suckless.org/patches/scrollback/)
 - [anysize](https://st.suckless.org/patches/anysize/)
+- [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 
 # Requirements
 - Xlib header files to build st.
@@ -19,8 +20,7 @@ st is a simple terminal emulator for X which sucks less.
 Edit config.mk to match your local setup (st is installed into
 the /usr/local namespace by default).
 
-Afterwards enter the following command to build and install st (if
-necessary as root):
+Afterwards enter the following command to build and install st
 
 ```sh
 chmod +x install.sh && ./install.sh
